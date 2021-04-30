@@ -10,7 +10,7 @@ Snow Crash was written and tested on MX Linux but should work fine on any system
 The following command line tools should be installed; 
 
 libqrencode: Follow the instructions on this page -> https://fukuchi.org/works/qrencode/
-             There is a version in the Debian repositories that works but it's a little dated.  
+There is a version in the Debian repositories that works but it's a little dated.  
 
 dialog: A lot of linux distros ship with dialog installed but if it's missing then "sudo apt install dialog" or similar.  
 
